@@ -16,9 +16,8 @@ Graph modeling, shortest path problems, maximum flow, and matching in bipartite 
 - [Assignment](tp3/enunciado.pdf)    
 - [Solution](/tp3/)
 
-All the works were made in C++
-
-## Autores
+## Authors
 - [@fbigiolli](https://github.com/fbigiolli)
 - [@lucaveron](https://github.com/lucaveron)
 - [@mateoschiro8](https://github.com/mateoschiro8)
+  All the works were made in C++
